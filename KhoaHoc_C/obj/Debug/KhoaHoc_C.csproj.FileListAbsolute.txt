@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\bin\Debug\KhoaHoc_C.exe.config
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\bin\Debug\KhoaHoc_C.exe
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\bin\Debug\KhoaHoc_C.pdb
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\obj\Debug\KhoaHoc_C.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\obj\Debug\KhoaHoc_C.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\obj\Debug\KhoaHoc_C.exe
+C:\Users\dell\source\repos\KhoaHoc_C\KhoaHoc_C\obj\Debug\KhoaHoc_C.pdb

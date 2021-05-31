@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaHoc_C", "KhoaHoc_C\KhoaHoc_C.csproj", "{8475E65C-FB92-4483-B6E0-016109EB689D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi1_C", "KhoaHoc_C\Buoi1_C.csproj", "{8475E65C-FB92-4483-B6E0-016109EB689D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi2_C", "Buoi2_C\Buoi2_C.csproj", "{0E9EF074-CE9A-4C01-92B5-2B3C043807CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi3_C", "Buoi3_C\Buoi3_C.csproj", "{BAA6748B-46DF-4406-B8A8-5AD34FA2B343}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8475E65C-FB92-4483-B6E0-016109EB689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8475E65C-FB92-4483-B6E0-016109EB689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8475E65C-FB92-4483-B6E0-016109EB689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9EF074-CE9A-4C01-92B5-2B3C043807CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9EF074-CE9A-4C01-92B5-2B3C043807CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9EF074-CE9A-4C01-92B5-2B3C043807CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9EF074-CE9A-4C01-92B5-2B3C043807CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA6748B-46DF-4406-B8A8-5AD34FA2B343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA6748B-46DF-4406-B8A8-5AD34FA2B343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA6748B-46DF-4406-B8A8-5AD34FA2B343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA6748B-46DF-4406-B8A8-5AD34FA2B343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

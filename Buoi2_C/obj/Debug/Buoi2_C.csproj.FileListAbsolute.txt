@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\bin\Debug\Buoi2_C.exe.config
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\bin\Debug\Buoi2_C.exe
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\bin\Debug\Buoi2_C.pdb
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\obj\Debug\Buoi2_C.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\obj\Debug\Buoi2_C.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\obj\Debug\Buoi2_C.exe
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi2_C\obj\Debug\Buoi2_C.pdb
