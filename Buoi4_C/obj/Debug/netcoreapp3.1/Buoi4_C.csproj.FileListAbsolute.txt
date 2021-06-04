@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.exe
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.deps.json
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.runtimeconfig.json
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.runtimeconfig.dev.json
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.dll
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\bin\Debug\netcoreapp3.1\Buoi4_C.pdb
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.AssemblyInfo.cs
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.dll
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.pdb
+C:\Users\dell\source\repos\KhoaHoc_C\Buoi4_C\obj\Debug\netcoreapp3.1\Buoi4_C.genruntimeconfig.cache
